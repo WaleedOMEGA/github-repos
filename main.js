@@ -1,4 +1,4 @@
-// main variables
+// main variables to use
 let theInput = document.querySelector('.get-repos input');
 let getButton = document.querySelector('.get-button');
 let reposData = document.querySelector('.show-data');
